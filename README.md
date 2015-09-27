@@ -1,6 +1,7 @@
 # ottORaspiRadio
 Alte Schale mit neuem Kern.
-Ein altes Radio, von dem nur noch ein Gehäuse und ein Chassis vorhanden ist, soll mit einer Menge Gimmiks neues Leben eigehaucht werden.
+Ein altes Radio, von dem nur noch ein Gehäuse und ein Chassis vorhanden ist,
+soll mit einer Menge Gimmiks neues Leben eigehaucht werden.
 Dazu sollen
 1. Ein Media Player auf Basis Raspberry Pi (A..B2) mit vorerst RaspBMC auf Basis Kodi
 2. Ein Gimmik-Controller auf Arduino Nano Basis
