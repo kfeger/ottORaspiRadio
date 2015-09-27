@@ -11,4 +11,4 @@ Dazu sollen
 6. und mal sehen was noch...
 
 Eingebaut werden.
-Vorbild ist das ManniraspiRadio.
+Vorbild ist das ManniRaspiRadio.
