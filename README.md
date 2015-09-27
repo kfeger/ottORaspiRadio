@@ -15,4 +15,5 @@ Dazu sollen
 
 eingebaut werden.
 
-Vorbild ist das ManniRaspiRadio.
+Vorbild ist das ManniRaspiRadio: https://www.youtube.com/watch?v=vHak3P6x7VI
+
