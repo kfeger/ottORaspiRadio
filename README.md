@@ -1,8 +1,8 @@
 # ottORaspiRadio
 Alte Schale mit neuem Kern.
 
-Ein altes Radio, von dem nur noch ein Gehäuse und ein Chassis vorhanden ist,
-soll mit einer Menge Gimmiks neues Leben eigehaucht werden.
+Einem alten Radio, von dem nur noch ein Gehäuse und ein Chassis vorhanden ist,
+soll mit einer Menge Gimmiks neues Leben eingehaucht werden.
 
 Dazu sollen
 
