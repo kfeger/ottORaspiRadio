@@ -13,5 +13,6 @@ Dazu sollen
 5. ein UKW-Radio
 6. und mal sehen was noch...
 
-Eingebaut werden.
+eingebaut werden.
+
 Vorbild ist das ManniRaspiRadio.
